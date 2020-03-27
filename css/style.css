@@ -1,0 +1,23 @@
+
+body {
+  background-color: #A0A;
+  font-family: "Montserrat";
+  color: #A0A;
+  font-size: 1.5rem;
+}
+.container {
+  text-align: center;
+  padding-top: 1%;
+  background: #fff;
+  border-radius: 10%;
+  text-decoration: none;
+}
+
+.pre {
+  width: 30%;
+}
+
+a {
+  text-decoration: none;
+  color: #A0A;
+}
